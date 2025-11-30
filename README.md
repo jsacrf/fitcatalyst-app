@@ -1,2 +1,2 @@
-# fitcatalyst-app
-Projeto criado via Lasy - fitcatalyst-app
+# techold-app
+Projeto criado via Lasy - techold-app
